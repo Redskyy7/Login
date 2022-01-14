@@ -65,15 +65,13 @@ form {
 }
 
 .error {
+    text-align: left;
     font-size: 1rem;
     color: black;
-    outline-color: red;
-    opacity: 1;
-    padding: 10px;
     position: absolute;
-    top: 61%;
-    left: 38%;
-    text-shadow: -1px 1px 0 red,
-				  1px 1px 0 red,
-				 1px -1px 0 red;
+    top: 76%;
+    left: 1%;
+    text-shadow: -1px 1px 0 crimson,
+				  1px 1px 0 crimson,
+				 1px -1px 0 crimson;
 }
